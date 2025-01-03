@@ -7,7 +7,7 @@ projects:
   - name: devdemos
     git:
       remotes:
-        origin: 'https://github.com/mamurak/airopen-demo.git'
+        origin: 'https://github.com/airopen/airopen-demo.git'
       checkoutFrom:
         revision: main
 components:

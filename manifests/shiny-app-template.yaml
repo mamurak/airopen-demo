@@ -119,7 +119,7 @@ parameters:
     value: shiny
   - name: APP_GIT_URI
     description: Deployment git uri
-    value: 'https://github.com/mamurak/airopen-demo.git'
+    value: 'https://github.com/airopen/airopen-demo.git'
   - name: APP_GIT_BRANCH
     description: Deployment git branch
     value: main
